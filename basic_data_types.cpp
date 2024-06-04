@@ -11,5 +11,6 @@ int main() {
     long l;
     scanf("%d %ld %c %f %lf",&a ,&l,&c,&b,&d);
     printf("%d\n%ld\n%c\n%0.3f\n%.9lf",a,l,c,b,d);
+    
     return 0;
 }
